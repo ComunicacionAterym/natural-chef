@@ -4,7 +4,8 @@ App de pedidos con stock por sucursal, hecha en Next.js + Supabase, lista para V
 
 ## Estado (vamos por fases)
 - ✅ Fase 1: base de datos (Supabase) — `schema.sql`
-- ✅ Fase 2: proyecto + login admin + pantalla **Sucursales** (datos, horarios por día, envío)
+- ✅ Fase 2: login admin + Sucursales (datos, horarios por día, envío)
+- ✅ Fase 2b: Categorías + Productos (precio, descripción, cantidad, gramos) + Stock por sucursal
 - ⬜ Fase 3: tienda del cliente (sucursal, carrito, checkout)
 - ⬜ Fase 4: panel de pedidos
 - ⬜ Fase 5: Mercado Pago
